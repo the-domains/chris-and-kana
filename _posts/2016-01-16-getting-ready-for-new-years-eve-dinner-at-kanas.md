@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:09b26fe5-45c9-467d-ba67-75ab15c070f3'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-01-16T18:25:51.560Z'
+dateModified: '2016-01-16T18:20:52.517Z'
 author: []
-datePublished: '2016-01-16T17:59:42.524Z'
-publisher:
-  domain: ''
-  name: ''
 title: "Getting ready for New Year's Eve dinner at Kana's"
-dateModified: '2016-01-16T17:39:14.819Z'
 sourcePath: _posts/2016-01-16-getting-ready-for-new-years-eve-dinner-at-kanas.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: getting-ready-for-new-years-eve-dinner-at-kanas/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
