@@ -1,19 +1,7 @@
 name: 'Chris & Kana'
 favicon: null
-layout_spectrum: 0.75558
+layout_spectrum: 0.2384214554913342
 typography_spectrum: 0.7368363356217742
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 cta:
   domain: null
   bucket: null
@@ -33,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.19149774056859314
+  lightness: 0.1659783534705639
+  saturation: 0.8204358820803463
+  rhythmicContrast: 0.8471750803291798
 purpose: []
