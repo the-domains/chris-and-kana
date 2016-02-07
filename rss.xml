@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chris & Kana]]></title>
         <description><![CDATA[Chris & Kana]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chris-and-kana/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 06:41:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 16:40:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-and-kana/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cityscape]]></title>
+            <description><![CDATA[<article><h1>Cityscape</h1><p>In today's tutorial I'm going to show you step by step how to create a warm cityscape using some simple tools such as the Rectangle Tool and Pathfinder from Adobe Illustrator. If you've read some of my previous tutorials you should by now know that the first thing I usually set up when starting a new illustration is the document itself.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d4971e51b1548debbe63c3c48a8528dccc20c2b.png"></article>]]></description>
+            <link>http://designmodo.com/flat-cityscape-illustrator/</link>
+            <guid isPermaLink="false">b8653dc4-cdb4-42bd-9000-69240a14a3a1</guid>
+            <pubDate>Sun, 07 Feb 2016 16:40:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f2ece9-06c7-4466-86df-d4a4c25320f4.png">]]></description>
-            <link>undefinedd16b828d-86fb-4b9f-8d3b-640958d219c6/index.html</link>
+            <link>https://thegrid.ai/chris-and-kana/d16b828d-86fb-4b9f-8d3b-640958d219c6/index.html</link>
             <guid isPermaLink="false">d16b828d-86fb-4b9f-8d3b-640958d219c6</guid>
             <pubDate>Sun, 17 Jan 2016 06:40:43 GMT</pubDate>
         </item>
